@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Runtime files (generated at runtime, not committed)
+members/_gap-log.md
+members/_voting-log.md
+
+# Node
+node_modules/
